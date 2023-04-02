@@ -12,7 +12,7 @@
                     style="background: rgba(0, 0, 0, 0.4); backdrop-filter: blur(5px)" id="text-overlay">
                     <h4 class="card-title mt-4 text-center fw-semibold text-white">Hutan Mangrove</h4>
                     <a href="/detail"
-                        class="position-absolute text-decoration-none badge bg-primary start-0 end-0 bottom-0 p-2 shadow m-3"><small>lihat
+                        class="position-absolute text-decoration-none badge bg-success start-0 end-0 bottom-0 p-2 shadow m-3"><small>lihat
                             wisata</small></a>
                 </div>
             </div>

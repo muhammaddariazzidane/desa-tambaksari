@@ -1,4 +1,4 @@
-<nav class="navbar sticky-top mb-1 navbar-expand-lg bg-primary py-2 navbar-dark" x-data='{open : false}'>
+<nav class="navbar sticky-top mb-1 navbar-expand-lg bg-success py-2 navbar-dark" x-data='{open : false}'>
     <div class="container">
         <div class="d-flex align-items-center ">
             <div style="width: 2.6rem">
@@ -44,6 +44,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-white " aria-current="page" href="#">Kegiatan</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white " aria-current="page" href="/bantuan">Bantuan</a>
                 </li>
             </ul>
             <ul class="navbar-nav ms-auto ">

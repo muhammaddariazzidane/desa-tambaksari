@@ -1,4 +1,4 @@
-<footer class="bg-primary text-white pt-4">
+<footer class="bg-success text-white pt-4">
     <div class="container">
         <div class="row justify-content-between">
             <div class="col-xl-3 col-lg-4 col-md-6">
@@ -61,7 +61,7 @@
                             <div class="d-block text-white text-decoration-none shadow-lg px-2 rounded bg-white">
                                 <a href="">
 
-                                    <i class="bi bi-facebook fs-5 text-primary"></i>
+                                    <i class="bi bi-facebook fs-5 text-success"></i>
                                 </a>
                             </div>
                         </li>
