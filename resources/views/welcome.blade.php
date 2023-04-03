@@ -7,7 +7,7 @@
         class="position-absolute start-0 end-0 z-n1 bottom-0 top-0">
     </div>
     <div class="position-absolute start-0 end-0 z-n1 bottom-0 top-0"
-        style="background: rgba(0, 0, 0, 0.3); backdrop-filter: blur(1px)"></div>
+        style="background: rgba(0, 0, 0, 0.3); backdrop-filter: blur(1px)"></div>a
     <div class=" pb-4 mb-5 container">
         <div class="p-5 mb-4 text-center text-white">
             <div class="container-fluid pb-5">

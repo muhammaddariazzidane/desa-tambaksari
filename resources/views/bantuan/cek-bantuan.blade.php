@@ -2,14 +2,14 @@
 
 @section('content')
     @include('components.navbar')
-    <div class="container py-5 my-5">
+    <div class="container py-5 ">
         <div class="row text-center mb-3">
             <h3>Cari NIK</h3>
         </div>
         <div class="row justify-content-center mx-auto">
             <div class="col-4">
                 <form method="get" action="/bantuan" class="input-group mb-3">
-                    <input type="search" name="search" class="form-control" placeholder="321*****"
+                    <input type="search" name="search" class="form-control shadow border-0" placeholder="321*****"
                         aria-label="Recipient's username" aria-describedby="basic-addon2">
                     <button type="submit" class="input-group-text bg-warning" id="basic-addon2"><i
                             class="fas fa-search"></i></button>
